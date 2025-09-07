@@ -1,0 +1,19 @@
+{
+  "name": "Direct Input Live",
+  "guid": "0ac7a7f5-9b9a-4d1c-8a8f-aaaaaaaaaaaa",
+  "version": "0.1.0",
+  "targetAbi": "10.9.0",
+  "framework": "net8.0",
+  "overview": "Stream Windows DirectShow (dshow) capture devices into Jellyfin Live TV via FFmpeg.",
+  "description": "إضافة تسمح ببث مداخل Windows (مثل USB Capture أو الكاميرات) إلى Jellyfin كقنوات Live TV باستخدام FFmpeg.",
+  "category": "Live TV",
+  "owner": "FAST-NET",
+  "artifacts": [
+    {
+      "name": "Jellyfin.Plugin.DirectInputLive",
+      "version": "0.1.0",
+      "sourceUrl": "https://github.com/dmola2001/BTHK-LiveStream/blob/main/Jellyfin.Plugin.DirectInputLive.zip",
+      "checksum": ""
+    }
+  ]
+}
