@@ -12,8 +12,7 @@
     {
       "name": "Jellyfin.Plugin.DirectInputLive",
       "version": "0.1.0",
-      "sourceUrl": "https://github.com/dmola2001/BTHK-LiveStream/releases/download/v0.1.0/Jellyfin.Plugin.DirectInputLive.zip
-",
+      "sourceUrl": "https://github.com/dmola2001/BTHK-LiveStream/releases/download/v0.1.0/Jellyfin.Plugin.DirectInputLive.zip",
       "checksum": ""
     }
   ]
